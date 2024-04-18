@@ -1,4 +1,4 @@
-## Hello 👋
+### Hello 👋
 - 👦🏻 My name is Alaqsa Akbar
 
 - 📚 I am currently a Sophmore Computer Engineering student at King Fahd University of Petrleom and Minerals (KFUPM) at Dhahran, Saudi Arabia
