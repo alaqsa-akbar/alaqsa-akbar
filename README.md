@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 - 👦🏻 My name is Alaqsa Akbar
 
 - 📚 I am currently a Sophmore Computer Engineering student at King Fahd University of Petrleom and Minerals (KFUPM) at Dhahran, Saudi Arabia
@@ -9,7 +9,7 @@
 
 - 🎉 Feel free to check out the repositories in my account and have fun!
 
-#### 📞 Contacts
+### 📞 Contacts
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/alaqsa-akbar-89a7aa2a8/)
 
 - 📧 [alaqsaakbar\@hotmail.com](mailto:alaqsaakbar@hotmail.com?)
