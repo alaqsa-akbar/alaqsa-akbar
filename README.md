@@ -1,5 +1,9 @@
 ### Hello 👋
-My name is Alaqsa Akbar and I am currently a Sophmore Computer Engineering student at King Fahd University of Petrleom and Minerals (KFUPM) at Dhahran, Saudi Arabia. My passion lies in the field of Artificial Intelligence and Machine Learaning with aspirations to become a leading researcher in the field. Feel free to check out the repositories in my account and have fun!
+My name is Alaqsa Akbar and I am currently a Sophmore Computer Engineering student at King Fahd University of Petrleom and Minerals (KFUPM) at Dhahran, Saudi Arabia.
+
+My passion lies in the field of Artificial Intelligence and Machine Learaning with aspirations to become a leading researcher in the field.
+
+Feel free to check out the repositories in my account and have fun!
 
 
 <!--
