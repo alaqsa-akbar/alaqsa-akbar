@@ -11,6 +11,7 @@
 
 #### 📞 Contacts
 - 🖇️ [LinkedIn](https://www.linkedin.com/in/alaqsa-akbar-89a7aa2a8/)
+
 - 📧 [alaqsaakbar\@hotmail.com](mailto:alaqsaakbar@hotmail.com?)
 
 <!--
