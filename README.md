@@ -10,7 +10,7 @@
 - 🎉 Feel free to check out the repositories in my account and have fun!
 
 ### 📞 Contacts
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/alaqsa-akbar-89a7aa2a8/)
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/alaqsa-akbar/)
 
 - 📧 [alaqsaakbar\@hotmail.com](mailto:alaqsaakbar@hotmail.com?)
 
