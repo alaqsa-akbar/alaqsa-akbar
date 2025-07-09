@@ -14,6 +14,8 @@
 
 - 📧 [alaqsaakbar\@hotmail.com](mailto:alaqsaakbar@hotmail.com?)
 
+- 🌐 [Website](https://alaqsa-akbar.github.io/)
+
 <!--
 **alaqsa-akbar/alaqsa-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
